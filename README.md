@@ -34,13 +34,17 @@ Takeaways are the best parts of these assignments they are all very difficult be
 
 <img width="1440" alt="E-commerce 1" src="https://user-images.githubusercontent.com/73844796/111808002-f408cc80-88a9-11eb-87fe-0c56a7608156.png">
 
-<img width="1440" alt="E-commerce 2" src="https://user-images.githubusercontent.com/73844796/111808056-0125bb80-88aa-11eb-9fef-6849bc94bb06.png">
-
 <img width="1440" alt="E-commerce 3" src="https://user-images.githubusercontent.com/73844796/111808746-accf0b80-88aa-11eb-854d-034cb2201132.png">
 
 <img width="1440" alt="E-commerce 4" src="https://user-images.githubusercontent.com/73844796/111808843-c07a7200-88aa-11eb-98ef-396f1c47c6a2.png">
 
 <img width="1440" alt="E-commerce 5" src="https://user-images.githubusercontent.com/73844796/111808895-cec88e00-88aa-11eb-8a94-e7542aa80ff6.png">
 
+More Screenshots available in the assets folder 
 
 # Video Walkthrough:
+
+
+* https://drive.google.com/file/d/1T-Jn6DlHpZge_yvpi0eaUClufl8Ats7i/view?usp=sharing - Video 1 
+
+* https://drive.google.com/file/d/1Q_Mjq4FXa_QZeQSQKJtETHC6aBD5lyJb/view?usp=sharing - Video 2 
